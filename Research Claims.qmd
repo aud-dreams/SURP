@@ -1,0 +1,45 @@
+---
+title: "Research Claims"
+format: html
+editor: visual
+---
+
+# List of Research Claims
+
+## Topic: Using Game-Based Assessments and Learning Analytics to Identify Academic Procrastination in College Students
+
+### Introduction
+
+#### Claim 1:
+
+Academic Procrastination: the intentional delay of an intended course of action, in spite of an awareness of negative outcomes
+
+#### Claim 2:
+
+Academic Procrastination affects 70-95% of college undergraduates,leading students to negative behaviors and outcomes such as late assignment submissions, test anxiety, self-handicapping strategies, fear of failure, and mental health issues
+
+#### Claim 3:
+
+Procrastination as a Personality Trait: Intrinsic qualities of a student affects likelihood of consistent procrastination tendencies over time
+
+#### Claim 4:
+
+The construct of procrastination can be divided into two categories: conscientiousness and self-regulation
+
+#### Claim 5:
+
+Conscientiousness: the tendency to be responsible, efficient, and hard-working with diligence in fulfilling objectives; the intrinsic qualities of prioritization, accountability, and perfectionism fall under this
+
+#### Claim 6:
+
+Self-regulation: the process where individuals monitor, control, and manage their thoughts, emotions, and behaviors to achieve their goals; the intrinsic qualities of distractibility and emotional regulation fall under this
+
+#### Claim 7:
+
+Game-based assessment: a type of stealth assessment using logged data where in-game behavioral indicators allow for inferences of players' underlying skills
+
+#### Claim 8:
+
+Challenges of game-based assessment: lengthy and complex design process, along with opposing opinions about the validity of its effectiveness and accuracy
+
+### Research Question: In the context of college education, how can we validate the construct of academic procrastination in terms of its intrinsic qualities? How can we utilize game-based assessments as a novel approach to identifying procrastination in college students?
